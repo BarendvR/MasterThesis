@@ -4,7 +4,7 @@ This page is used to give CODA project members access to the visualizations of t
 
 The follow links will show an interactive network where each node gets the color of the community it belongs to and the edge from the node will get the same color. The node is sized based on the amount of being cited by others. When you hover over the node it will display its title and author, topic and in what year it was published.  You can also drag around nodes and zoom in to see more details.
 
-The pages can sometime load very slow, please wait a bit, if that does not work please refresh the page.
+The pages can sometime load very slow, please wait a bit. If that does not work please refresh the page.
 
 ## The network
 
