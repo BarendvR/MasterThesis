@@ -9,15 +9,15 @@ The full network can be found here:
 * [Full network](CODANetworkWithCommunities.html)
 
 For the first questions you can find each individual community here:  
-* [First community (red)](CODANetworkWithCommunities.html)  
-* [Second community (green)](CODANetworkWithCommunities.html)  
-* [Third community (yellow)](CODANetworkWithCommunities.html)  
-* [Fourth community (orange)](CODANetworkWithCommunities.html)  
-* [Fifth community (purple)](CODANetworkWithCommunities.html)  
-* [Sixth community (aqua)](CODANetworkWithCommunities.html)  
-* [Seventh community (blue)](CODANetworkWithCommunities.html)  
-* [Eighth community (brown)](CODANetworkWithCommunities.html)  
-* [Ninth community (black)](CODANetworkWithCommunities.html)  
+* [First community (red)](WithoutLabelData/Community_1_red.html)  
+* [Second community (green)](WithoutLabelData/Community_2_green.html)  
+* [Third community (yellow)](WithoutLabelData/Community_3_yellow.html)  
+* [Fourth community (orange)](WithoutLabelData/Community_4_orange.html)
+* [Fifth community (purple)](WithoutLabelData/Community_5_purple.html)
+* [Sixth community (aqua)](WithoutLabelData/Community_6_aque.html)
+* [Seventh community (blue)](WithoutLabelData/Community_7_blue.html)
+* [Eighth community (brown)](WithoutLabelData/Community_8_brown.html)
+* [Ninth community (black)](WithoutLabelData/Community_9_black.html)
 
 ### Support or Contact
 
