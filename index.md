@@ -1,14 +1,15 @@
 ## Welcome
 
-This page is used to give CODA project members access to the visualizations of the citation network so they can help vildate the results 
+This page is used to give CODA project members access to the visualizations of the citation network so they can help validate the results 
 
+The follow links will show an interactive network where each node gets the color of the community it belongs to and the edge from the node will get the same color. The node is sized based on the amount of being cited by others. When you hover over the node it will display its title and author, topic and in what year it was published.  You can also drag around nodes and zoom in to see more details.
 
 ## The network
 
 The full network can be found here:  
 * [Full network](CODANetworkWithCommunities.html)
 
-For the first questions you can find each individual community here:  
+For the first questions you can find a visualization of each individual community here:  
 * [First community (red)](WithoutLabelData/Community_1_red.html)  
 * [Second community (green)](WithoutLabelData/Community_2_green.html)  
 * [Third community (yellow)](WithoutLabelData/Community_3_yellow.html)  
