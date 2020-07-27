@@ -17,10 +17,24 @@ For the first questions you can find a visualization of each individual communit
 * [Third community (yellow)](WithoutLabelData/Community_3_yellow.html)  
 * [Fourth community (orange)](WithoutLabelData/Community_4_orange.html)
 * [Fifth community (purple)](WithoutLabelData/Community_5_purple.html)
-* [Sixth community (aqua)](WithoutLabelData/Community_6_aque.html)
+* [Sixth community (aqua)](WithoutLabelData/Community_6_aqua.html)
 * [Seventh community (blue)](WithoutLabelData/Community_7_blue.html)
 * [Eighth community (brown)](WithoutLabelData/Community_8_brown.html)
 * [Ninth community (black)](WithoutLabelData/Community_9_black.html)
+
+## Attribute data
+
+The visualization for the 3th question can be found below:
+(Please do not look into this before the 3th question)
+* [First community (red)](WithLabelData/Community_1_red.html)  
+* [Second community (green)](WithLabelData/Community_2_green.html)  
+* [Third community (yellow)](WithLabelData/Community_3_yellow.html)  
+* [Fourth community (orange)](WithLabelData/Community_4_orange.html)
+* [Fifth community (purple)](WithLabelData/Community_5_purple.html)
+* [Sixth community (aqua)](WithLabelData/Community_6_aqua.html)
+* [Seventh community (blue)](WithLabelData/Community_7_blue.html)
+* [Eighth community (brown)](WithLabelData/Community_8_brown.html)
+* [Ninth community (black)](WithLabelData/Community_9_black.html)
 
 ### Support or Contact
 
