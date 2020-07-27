@@ -20,7 +20,7 @@ For the first questions you can find a visualization of each individual communit
 * [Sixth community (aqua)](WithoutLabelData/Community_6_aqua.html)
 * [Seventh community (blue)](WithoutLabelData/Community_7_blue.html)
 * [Eighth community (brown)](WithoutLabelData/Community_8_brown.html)
-* [Ninth community (black)](WithoutLabelData/Community_9_black.html)
+* [Ninth community (black)](WithoutLabelData/Community_9_Black.html)
 
 ## Attribute data
 
@@ -34,7 +34,7 @@ The visualization for the 3th question can be found below:
 * [Sixth community (aqua)](WithLabelData/Community_6_aqua.html)
 * [Seventh community (blue)](WithLabelData/Community_7_blue.html)
 * [Eighth community (brown)](WithLabelData/Community_8_brown.html)
-* [Ninth community (black)](WithLabelData/Community_9_black.html)
+* [Ninth community (black)](WithLabelData/Community_9_Black.html)
 
 ### Support or Contact
 
