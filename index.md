@@ -11,6 +11,10 @@ The pages can sometime load very slow, please wait a bit. If that does not work 
 The full network can be found here:  
 * [Full network](CODANetworkWithCommunities.html)
 
+As you can see, there are 14 different communities within the network. Nodes represent specific papers, and edges the citation between them. The larger the node, the more cited it is in the community. We removed the very small communities (nodes with 1 or less incoming edges) to increase visualization performance.
+
+I would like you to focus on the 9 largest communities. 
+
 For the first questions you can find a visualization of each individual community here:  
 * [First community (red)](WithoutLabelData/Community_1_red.html)  
 * [Second community (green)](WithoutLabelData/Community_2_green.html)  
